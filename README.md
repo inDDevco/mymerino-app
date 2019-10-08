@@ -1,6 +1,6 @@
 # README
 
-* Ruby version: 2.5.1
+* Ruby version: 5.2.3
 
 * System dependencies & Configuration: postgres, passenger, self-signed SSL
 
