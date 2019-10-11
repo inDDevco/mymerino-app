@@ -3,5 +3,4 @@ class AdminUser < ApplicationRecord
   # :confirmable, :lockable, :timeoutable, :trackable and :omniauthable
   devise :database_authenticatable, 
          :recoverable, :rememberable, :validatable
-         :omniauthable, omniauth_providers: [:azure_activedirectory]
 end
